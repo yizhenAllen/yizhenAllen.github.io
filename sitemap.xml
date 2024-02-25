@@ -40,7 +40,7 @@
 
   <url>
     <loc>http://yizhenallen.github.io/</loc>
-    <lastmod>2024-02-08</lastmod>
+    <lastmod>2024-02-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,14 +48,14 @@
   
   <url>
     <loc>http://yizhenallen.github.io/tags/resources/</loc>
-    <lastmod>2024-02-08</lastmod>
+    <lastmod>2024-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://yizhenallen.github.io/tags/test/</loc>
-    <lastmod>2024-02-08</lastmod>
+    <lastmod>2024-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -64,21 +64,21 @@
   
   <url>
     <loc>http://yizhenallen.github.io/categories/Test/</loc>
-    <lastmod>2024-02-08</lastmod>
+    <lastmod>2024-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://yizhenallen.github.io/categories/Test/Sondir/</loc>
-    <lastmod>2024-02-08</lastmod>
+    <lastmod>2024-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://yizhenallen.github.io/categories/Test1/</loc>
-    <lastmod>2024-02-08</lastmod>
+    <lastmod>2024-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
